@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(106, 186, 236);
+}
+
+h1{
+    text-align: center;
+    color: rgb(209, 245, 3);
+}
+
+.image{
+    display: block;
+    justify-content: center;
+    width: 600px;
+    height:450px;
+}
